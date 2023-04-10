@@ -1,1 +1,1 @@
-# senai-versoes-colaboracoes-2
+Resolução de conflito do Git
